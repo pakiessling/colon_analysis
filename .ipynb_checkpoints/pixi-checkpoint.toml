@@ -1,0 +1,11 @@
+[project]
+authors = ["pakiessling <pakiessling@ukaachen.de>"]
+channels = ["conda-forge", "bioconda"]
+description = "Add a short description here"
+name = "colon_analysis"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]

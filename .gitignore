@@ -3,3 +3,4 @@
 .pixi
 *.egg-info
 *.h5ad
+.ipynb_checkpoints
